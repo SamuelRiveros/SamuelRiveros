@@ -18,7 +18,7 @@
 - ✨ Aprendizaje constante
 - 🌱 Actualmente me encuentro aprendiendo C++
 - 🧨 Contribuyendo constantemente como modelador 3D en proyectos personales
-- 💻 Visita mi [Portafolio](samuelriveros.github.io/PORTAFOLIO/) para saber más sobre mí.
+- 💻 Visita mi [Portafolio](https://samuelriveros.github.io/PORTAFOLIO/) para saber más sobre mí.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -32,7 +32,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lenguajes y Herramientas</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,py,html,css,vue,nodejs,express,mongo,git,mysql,vscode,docker,bash,vite&perline=7"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,py,html,css,vue,nodejs,express,mongo,git,mysql,vscode,docker,bash,vite&perline=7" />
 </p>
 <br />
 
@@ -77,11 +77,9 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Ultimo Proyecto</strong></h3>
+      <h3 align="center"><strong>Lenguajes más usados</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelRiveros&repo=cryptos&theme=dark&show_owner=true" alt="Cryptos Project" />
-        </a>
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRiveros&theme=dark&layout=donut" alt="Cryptos Project" />
       </p>
     </td>
     <td width="50%">
