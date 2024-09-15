@@ -13,7 +13,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Soy un Desarrollador Back-end con una solida experiencia en el Diseño general, he contribuido en diferentes proyectos con gente del exterior, y me motivan los retos y experiencias que encuentro constantemente</p>
+<p align="left">Soy un Desarrollador Back-end con una solida experiencia en el Diseño general, he contribuido en diferentes proyectos con gente del exterior, los retos y experiencias las cuales experimento constantemente son mi motivación</p>
 
 - ✨ Aprendizaje constante
 - 🌱 Actualmente me encuentro aprendiendo C++
@@ -32,14 +32,17 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lenguajes y Herramientas</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,py,html,css,vue,nodejs,express,mongo,git,mysql,vscode,docker,bash,vite&perline=7" />
+<img width="500px" src="https://skillicons.dev/icons?i=js,py,html,css,react,vue,nodejs,express,mongo,git,mysql,vscode,docker,bash,vite&perline=7" />
 </p>
 <br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Programas y Herramientas de diseño/desarrollo</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=ae,blender,notion,ps,robloxstudio,unity,unreal&perline=7"  />
+<img width="500px" src="https://skillicons.dev/icons?i=ae,blender,notion,ps,robloxstudio,unity,unreal&perline=7"  />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
+<img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968543.png" />
+
 </p>
 <br />
 
