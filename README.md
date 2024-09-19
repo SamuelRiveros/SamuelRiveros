@@ -44,7 +44,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Trofeos de Github 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
+  <a href="https://github.com/SamuelRiveros/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=SamuelRiveros&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
@@ -58,7 +58,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/SamuelRiveros">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelRiveros&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
         </a>
       </p>
@@ -66,7 +66,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/SamuelRiveros">
           <img align="center" src="https://streak-stats.demolab.com?user=SamuelRiveros&theme=dark" alt="Streak Stats" />
         </a>
       </p>
