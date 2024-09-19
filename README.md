@@ -1,12 +1,6 @@
 <!--Banner-->
 ![Imagen de Banner de SamuelRiveros](https://i.imgur.com/EPEbXCp.png)
 
-<!--Imagen a la derecha-->
-<div>
-  <img align="right" width="30%" src="https://i.imgur.com/f7RRUCJ.png" style="margin-top: 90px;">
-
-</div>
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Soy Samuel Riveros! 
 *Desarrollador Back-end - Artista 3D*
