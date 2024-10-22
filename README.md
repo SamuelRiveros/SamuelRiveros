@@ -3,7 +3,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Soy Samuel Riveros! 
-*Desarrollador Back-end - Artista 3D*
+*Desarrollador Back-end - Graficos y 3D*
 <br /> 
 
 <!--Start Intro-->               
